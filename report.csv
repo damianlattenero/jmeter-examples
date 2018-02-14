@@ -1,2 +1,6 @@
-timeStamp,elapsed,responseCode,responseMessage,success,failureMessage,SampleCount,ErrorCount
-1518620655357,2427,200,OK,true,,1,0
+timeStamp,elapsed,responseCode,responseMessage,success,failureMessage,SampleCount,ErrorCount,Total Samples,Total Errors
+1518620655357,2427,200,OK,true,,1,0,4,0
+1518620811011,1514,200,OK,true,,1,0,,
+1518620858757,1419,200,OK,true,,1,0,,
+1518620919342,1330,200,OK,true,,1,0,,
+1518621152077,1592,200,OK,true,,1,0
