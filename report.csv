@@ -1,0 +1,2 @@
+timeStamp,elapsed,responseCode,responseMessage,success,failureMessage,SampleCount,ErrorCount
+1518620655357,2427,200,OK,true,,1,0
